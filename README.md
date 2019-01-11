@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Nothing to deploy yet
+Nothing to deploy yet, not even from myfeatre branch
 
 ## How to contribute
 
