@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Nothing to deploy yet
+
 ## How to contribute
 
 Please fork this repository and then issue pull request for review
