@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Moretext. Even more Text.
+This repository is for showing how Git and GitHub work. Updating this emergency fix.
 
 ## Purpose
 
