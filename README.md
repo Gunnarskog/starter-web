@@ -14,3 +14,6 @@ Nothing to deploy yet, not even from myfeatre branch
 
 Please fork this repository and then issue pull request for review
 
+## Copyright
+
+All rights reserved
